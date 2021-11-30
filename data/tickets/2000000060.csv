@@ -1,0 +1,34 @@
+Nachrichtentyp,Datun,Uhrzeit,Absender,Ort,Text
+Beschreibung ,2015.11.25,19:35:19,H2451TK1,<LOCATION>,"Hallo zusammen
+
+aktuell sind die Systeme i06, i58, i72 nicht erreichbar
+Fehlermeldung: Time out occured
+
+vg <PERSON0>"
+Antwort ,2015.11.25,21:19:47,H2451TK1,<LOCATION>,"Hi Nochmal
+
+macht ihr gerade irgendwas an eurem Netzwerk? Jetzt sind alle Systeme da
+und i73 plötzlich weg
+
+vg <PERSON3>"
+Antwort ,2015.11.25,21:55:55,H2851DP2,<LOCATION>,"Hallo <PERSON3>,
+
+das I73 sollte wieder da sein.
+
+Kind regards / Mit freundlichen Grüßen
+SAP UCC Team in <LOCATION1>"
+Beschreibung ,2015.11.25,22:09:09,H2851RM4,<LOCATION>,"Hallo <PERSON3>,
+
+Sorry, wir mussten kurz den einen Power Server durchstarten, weil da
+FibreChannel Adapter kaputt waren und wir sichergehen mussten, dass es
+sich um ein Hardwareproblem handelt (sonst tauscht der IBM Support nicht
+:-( ). Danach haben wir nochmal die I73 neustarten müssen, jetzt sollte
+aber alles wieder da sein.
+
+VG
+<PERSON3>"
+Antwort ,2015.11.26,14:26:08,H2451TK1,<LOCATION>,"Hi <PERSON3> und Dominikdanke für die Rückmeldung. Hatte schon vermutet, dass es nur eine
+geringfügige Netzstörung ist.
+Die Systeme waren auch gestern recht fix wieder da
+
+vg <PERSON3>"

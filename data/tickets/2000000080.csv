@@ -1,0 +1,233 @@
+Nachrichtentyp,Datun,Uhrzeit,Absender,Ort,Text
+Systemdaten ,2015.11.30,11:14:29,H2702AR1,<LOCATION>,"SY-SYSID ............... I77
+SY-MANDT ............... 700
+
+Installation number .... 0020242268
+
+System type ............ Development System
+
+SAP version
+Release ................ 740
+Support Package Level .. 0009
+
+Database ............... DB2 UDB FOR UNIX AND WINDOWS 10.05.0005
+
+Database Server
+Vendor ................. IBM
+Name ................... i77lp1
+IP address ............. 131.159.9.220
+Type ...................
+CPU type ............... PowerPC_POWER7
+Operating system ....... AIX_64 7.1
+
+Message Server
+Vendor .................
+Name ...................
+IP address .............
+Type ...................
+CPU type ...............
+Operating system .......
+
+Software Component/Release/Support Package Level
+BC-FES-IGS 7.20EXT 008
+EA-APPL 617 0007
+EA-DFPS 600 0026
+EA-FIN 617 0007
+EA-FINSERV 617 0007
+EA-GLTRADE 617 0007
+EA-HR 607 0035
+EA-HRCAR 607 0035
+EA-HRCAT 607 0035
+EA-HRCAU 607 0035
+EA-HRCBE 607 0035
+EA-HRCBR 607 0035
+EA-HRCCA 607 0035
+EA-HRCCH 607 0035
+EA-HRCCL 607 0035
+EA-HRCCN 607 0035
+EA-HRCDE 607 0035
+EA-HRCDK 607 0035
+EA-HRCES 607 0035
+EA-HRCFI 607 0035
+EA-HRCFR 607 0035
+EA-HRCGB 607 0035
+EA-HRCHK 607 0035
+EA-HRCID 607 0035
+EA-HRCIE 607 0035
+EA-HRCIN 607 0035
+EA-HRCIT 607 0035
+EA-HRCJP 607 0035
+EA-HRCKR 607 0035
+EA-HRCKW 607 0035
+EA-HRCKZ 607 0035
+EA-HRCMX 607 0035
+EA-HRCMY 607 0035
+EA-HRCNL 607 0035
+EA-HRCNO 607 0035
+EA-HRCNZ 607 0035
+EA-HRCOM 607 0035
+EA-HRCPH 607 0035
+EA-HRCPT 607 0035
+EA-HRCQA 607 0035
+EA-HRCRU 607 0035
+EA-HRCSE 607 0035
+EA-HRCSG 607 0035
+EA-HRCTH 607 0035
+EA-HRCTW 607 0035
+EA-HRCUN 607 0035
+EA-HRCUS 607 0035
+EA-HRCVE 607 0035
+EA-HRCZA 607 0035
+EA-HRGXX 607 0035
+EA-HRRXX 607 0035
+EA-IPPE 617 0004
+EA-PS 600 0026
+EA-RETAIL 600 0026
+ECC-DIMP 600 0024
+ERECRUIT 600 0026
+FI-CA 617 0007
+FI-CAX 617 0007
+FINBASIS 747 0007
+FSCM_CCD 617 0007
+INSURANCE 600 0024
+IS-CWM 600 0024
+IS-H 600 0036
+IS-M 600 0024
+IS-OIL 600 0024
+IS-PS-CA 600 0024
+IS-UT 600 0024
+IW_CBS 200 0009
+IW_CNT 200 0009
+IW_FNDGC 100 0003
+IW_GIL 100 0005
+IW_PGW 100 0006
+IW_SCS 200 0009
+IW_SPI 100 0005
+KRNL64UC 7.42 101
+LSOFE 600 0026
+MDG_APPL 617 0007
+MDG_FND 747 0007
+PI_BASIS 740 0009
+PLMWUI 747 0007
+SAP_ABA 740 0009
+SAP_AP 700 0032
+SAP_APPL 617 0007
+SAP_BASIS 740 0009
+SAP_BS_FND 747 0007
+SAP_BW 740 0009
+SAP_FIN 617 0007
+SAP_GWFND 740 0009
+SAP_HR 604 0084
+SAP_HRCAR 604 0084
+SAP_HRCAT 604 0084
+SAP_HRCAU 604 0084
+SAP_HRCBE 604 0084
+SAP_HRCBR 604 0084
+SAP_HRCCA 604 0084
+SAP_HRCCH 604 0084
+SAP_HRCCL 604 0084
+SAP_HRCCN 604 0084
+SAP_HRCDE 604 0084
+SAP_HRCDK 604 0084
+SAP_HRCES 604 0084
+SAP_HRCFI 604 0084
+SAP_HRCFR 604 0084
+SAP_HRCGB 604 0084
+SAP_HRCHK 604 0084
+SAP_HRCID 604 0084
+SAP_HRCIE 604 0084
+SAP_HRCIN 604 0084
+SAP_HRCIT 604 0084
+SAP_HRCJP 604 0084
+SAP_HRCKR 604 0084
+SAP_HRCKW 604 0084
+SAP_HRCKZ 604 0084
+SAP_HRCMX 604 0084
+SAP_HRCMY 604 0084
+SAP_HRCNL 604 0084
+SAP_HRCNO 604 0084
+SAP_HRCNZ 604 0084
+SAP_HRCOM 604 0084
+SAP_HRCPH 604 0084
+SAP_HRCPT 604 0084
+SAP_HRCQA 604 0084
+SAP_HRCRU 604 0084
+SAP_HRCSE 604 0084
+SAP_HRCSG 604 0084
+SAP_HRCTH 604 0084
+SAP_HRCTW 604 0084
+SAP_HRCUN 604 0084
+SAP_HRCUS 604 0084
+SAP_HRCVE 604 0084
+SAP_HRCZA 604 0084
+SAP_HRGXX 604 0084
+SAP_HRRXX 604 0084
+SAP_UI 740 0011
+SEM-BW 747 0007
+ST-A/PI 01R_731 0001
+ST-PI 740 0001
+WEBCUIF 747 0007
+"
+Beschreibung ,2015.11.30,11:14:57,H2702AR1,<LOCATION>,"Guten Morgen, SAP UCC Team,
+
+ich würde gerne die Kursmaterialien zu ""SAP ERP Configuration using GBI""
+nutzen. Wird das auf dem angemieteten System I77 Mandant 700
+funktionieren?
+
+- Das I77 ist ein ECC6.0 EHP7 mit <LOCATION2> 7.40 SP09. Laut Kursmaterial wird
+ein SAP ERP 6.04 vorausgeetzt.
+
+- Bei der Datenbank soll eine ""single-company code version"" (2.23)
+vorliegen für das Kursmaterial. Was versteht man unter ""single-company
+version""? Was wäre dann eine ""multiple-company version""?
+
+Viele Grüße, <PERSON7> RAusch"
+Beschreibung ,2015.12.03,14:12:53,H2851RH3,<LOCATION>,"Hallo Herr <PERSON9>,
+
+ich habe Ihre Anfrage an unsere Kollegen vom UCC Magdeburg
+weitergeleitet, da ich mir insbesondere bez. des Single Company Codes
+selber unsicher bin. Mit der Version sollten Sie kein Problem haben, da
+Sie mit Version 6.07 ja eine höhere Version als gefordert (6.04) zur
+Verfügung haben. Im GBI-Client wie Sie ihn aktuell nutzen sind
+allerdings zwei Buchungskreise (US00 und <LOCATION5>) verfügbar - das würde ich
+aktuell demzufolge als Multi Company Code Client verstehen. Ich werde
+Sie informieren, sowie ich hier eine Nachricht aus <LOCATION4> habe und
+bitte Sie um etwas Geduld.
+
+Viele Grüße aus <LOCATION3>,
+<PERSON9>"
+Antwort ,2015.12.10,15:53:55,H2702AR1,<LOCATION>,"Liebes UCC Team,
+
+hiermit bitte ich um schnellere Bearbeitung. Vielleicht könnten Sie eine
+Zwischeninfo geben, was einen single company code von einem multi
+company code unterscheidet. Anhand der mir zugänglichen Unterlagen
+verstehe ich das nicht. Es scheint sich um mehr als eine
+Namenskonvention für den Buchungskreis zu handeln.
+
+Viele Grüße, <PERSON9> RAusch"
+Beschreibung ,2015.12.16,17:14:56,H2851RH3,<LOCATION>,"Lieber Herr <PERSON9>,
+
+ergänzend zu meiner ersten, vorläufigen Antwort vom 3.12. kann ich Ihnen
+nun da ich Gelegenheit hatte mit einem Entwickler des Curriculums zu
+sprechen, eine abschließende Antwort zukommen lassen. Alle fünf
+Mandanten in dem von Ihnen genutzten GBI-System I77 sind sogenannte
+Single Company Code Clients (auch wenn neben dem <LOCATION7> 00
+auch der <LOCATION6> angelegt ist). Es handelt sich dabei um die
+Standard-Version des GBI-Clients. Zusätzlich zu dieser Version gibt es
+auch die sogenannte Multi Company Code Client Version. Hier sind -
+insbesondere für fortgeschrittene Curricula - bereits vorab 100
+Buchungskreise angelegt. Diese Version ist für das Customizing
+Curriculum nicht geeignet, da der Namensraum für Buchungskreiseausgeschöpft ist. Konkret bedeutet das für Sie, dass Sie das Ihnen
+vorliegende Customizing Curriculum uneingeschränkt mit de Ihnen zur
+Verfügung stehenden Mandanten einsetzen können.
+
+Ergänzend hier noch folgende interessante Information: Herr Weidner hat
+mir erzählt, dass er gerade an einer Erweiterung (Phase 0) des
+Curriculums arbeitet. Diese neue Version wird voraussichtlich im
+Frühjahr 2016 verfügbar sein und wird auch in der Customizing-Schulung
+vom 25.-26.02.2016 in <LOCATION4> eingesetzt. Bei Interesse können Sie
+sich über das SAP UA EMEA Portal zu dieser kostenlosen Schulung
+anmelden; den Ausschreibungstext finden Sie im Anhang zu diesem Ticket.
+
+Viele Grüße,
+<PERSON9>"

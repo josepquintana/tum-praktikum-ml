@@ -1,0 +1,194 @@
+Nachrichtentyp,Datun,Uhrzeit,Absender,Ort,Text
+Systemdaten ,2015.11.26,15:37:34,H2741CR1,<LOCATION>,"SY-SYSID ............... I19
+SY-MANDT ............... 900
+
+Installation number .... 0110008471
+
+System type ............ Test System
+
+SAP version
+Release ................ 701
+Support Package Level .. 0003
+
+Database ...............
+
+Database Server
+Vendor .................
+Name ...................
+IP address .............
+Type ...................
+CPU type ...............
+Operating system .......
+
+Message Server
+Vendor ................. IBM
+Name ................... i19lp1
+IP address ............. 131.159.9.153
+Type ...................
+CPU type ............... PowerPC_POWER7
+Operating system ....... AIX_64 6.1
+
+Software Component/Release/Support Package Level
+AIN 400 0002
+C-CEE 110_604
+CPRXRPM 450_700 0006
+EA-APPL 604 0002
+EA-DFPS 604 0002
+EA-FINSERV 604 0002
+EA-GLTRADE 604 0002
+EA-HR 604 0006
+EA-HRCAR 604
+EA-HRCAT 604
+EA-HRCAU 604
+EA-HRCBE 604
+EA-HRCBR 604
+EA-HRCCA 604
+EA-HRCCH 604
+EA-HRCCN 604
+EA-HRCDE 604
+EA-HRCDK 604
+EA-HRCES 604
+EA-HRCFI 604
+EA-HRCFR 604
+EA-HRCGB 604
+EA-HRCHK 604
+EA-HRCID 604
+EA-HRCIE 604
+EA-HRCIN 604
+EA-HRCIT 604
+EA-HRCJP 604
+EA-HRCKR 604
+EA-HRCMX 604
+EA-HRCMY 604
+EA-HRCNL 604
+EA-HRCNO 604
+EA-HRCNZ 604
+EA-HRCPH 604
+EA-HRCPT 604
+EA-HRCRU 604
+EA-HRCSE 604
+EA-HRCSG 604
+EA-HRCTH 604
+EA-HRCTW 604
+EA-HRCUS 604
+EA-HRCVE 604
+EA-HRCZA 604
+EA-HRGXX 604
+EA-HRRXX 604
+EA-IPPE 404 0002
+EA-PS 604 0002
+EA-RETAIL 604 0002
+ECC-DIMP 604 0002
+ECC-SE 604 0002
+ERECRUIT 604 0002
+FI-CA 604 0002
+FI-CAX 604 0002
+FINBASIS 604 0002
+GRCPCRTA 250_700 0006
+GRCSPC 250 0006
+GRC_RM_ABP 200 0012
+HR-CEE 110_604
+HR-CEECBG 110_604
+HR-CEECCO 110_604
+HR-CEECCZ 110_604
+HR-CEECHR 110_604
+HR-CEECHU 110_604
+HR-CEECPL 110_604
+HR-CEECRO 110_604
+HR-CEECSI 110_604
+HR-CEECSK 110_604
+HR-CEECTR 110_604
+HR-CEECUA 110_604
+HR-CEEGXX 110_604
+HR-CEERXX 110_604
+INSURANCE 604 0002
+IS-CWM 604 0002
+IS-H 604 0003
+IS-M 604 0002
+IS-OIL 604 0002
+IS-PRA 604 0002
+IS-PS-CA 604 0002
+IS-UT 604 0002
+LCAPPS 2005_700 0005
+LSOFE 604 0002
+MRSS 610 0005
+OTEXVIM 516_700 0002
+PI_BASIS 701 0003
+PLMWUI 700 0002
+RTLWFM 310
+SAP_ABA 701 0003
+SAP_AP 700 0015
+SAP_APPL 604 0002
+SAP_BASIS 701 0003
+SAP_BS_FND 701 0002
+SAP_BW 701 0003
+SAP_HR 604 0006
+SAP_HRCAR 604
+SAP_HRCAT 604
+SAP_HRCAU 604
+SAP_HRCBE 604
+SAP_HRCBR 604
+SAP_HRCCA 604
+SAP_HRCCH 604
+SAP_HRCCL 604
+SAP_HRCCN 604
+SAP_HRCDE 604
+SAP_HRCDK 604
+SAP_HRCES 604
+SAP_HRCFI 604
+SAP_HRCFR 604
+SAP_HRCGB 604
+SAP_HRCHK 604
+SAP_HRCID 604
+SAP_HRCIE 604
+SAP_HRCIN 604
+SAP_HRCIT 604
+SAP_HRCJP 604
+SAP_HRCKR 604
+SAP_HRCMX 604
+SAP_HRCMY 604
+SAP_HRCNL 604
+SAP_HRCNO 604
+SAP_HRCNZ 604
+SAP_HRCPH 604
+SAP_HRCPT 604
+SAP_HRCRU 604
+SAP_HRCSE 604
+SAP_HRCSG 604
+SAP_HRCTH 604
+SAP_HRCTW 604
+SAP_HRCUS 604
+SAP_HRCVE 604
+SAP_HRCZA 604
+SAP_HRGXX 604
+SAP_HRRXX 604
+SEM-BW 604 0002
+SLL-LEG 720 0001
+SLL_PI 800_604 0002
+ST-A/PI 01L_ECC600
+ST-PI 2008_1_700
+TDAGBCA 110_600 0002
+VIRSAHR 530_700 0005
+VIRSANH 530_700 0007
+WEBCUIF 700 0002
+WFMCORE 200 0011
+XFT 240_700
+"
+Beschreibung ,2015.11.26,15:37:47,H2741CR1,<LOCATION>,"Da ich keine neue Connection anlegen kann (ist ausgegraut), nehme ich
+die bestehende Connection und versuche einen Shortcut dazu anzulegen.
+Das funktioniert auch bis auf S.14 der im Anhang gezeigte Fehler
+auftritt. Da ich nächste Woche eine Blockveranstaltung zu diesem Thema
+habe, bitte ich um rasche Hilfe."
+Antwort ,2015.11.26,15:41:16,H2741CR1,<LOCATION>,"Liebes Team,
+
+nächste Woche habe ich hierzu eine Blockveranstaltung. Leider stellte
+sich erst gestern heraus, dass es hier neuere Tools gibt. Jetzt versuche
+ich das irgendwie hinzubekommen. Aber ganz offensichtlich habe ich
+keinen User, mit dem ich ein Universe anlegen darf. Vorhanden ist auch
+keines. Was also, kann ich tun?"
+Antwort ,2015.11.26,18:06:17,H2741CR1,<LOCATION>,"Mir ist nicht klar, was ich von meiner Seite tun soll. Ich kann auch
+keinerlei Nachricht von Ihrer Seite erkennen. Kann man die Meldung nicht
+einfach schließen?"
+Antwort ,2016.05.31,18:00:40,BORYS,<LOCATION>,"Meldung automatisch durch Report ""AI_SDK_SP_AUTO_CLOSE"" verarbeitet.
+
+Neuer : <(>&<)><(>&<)>'Quittiert'(E0008)<(>&<)><(>&<)>"
