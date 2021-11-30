@@ -1,0 +1,56 @@
+Column description UCC ticket system
+
+Tickets can have the following meta data. 
+A * behind a name indicates that this meta data is attributed to the ticket by the ticket system automatically.
+All not marked data has to be attributed by the ticket creator manually and can theirfore be errorneous.
+
+(c) behind a name indicates that a user has to chose from a list of options when determining the value of this field.  
+(d) behind a name indicates that this field is dependant on other fields and therefore does not exist in all cases
+(s) behind a name indicates that this meta data has a default value that is used when the user chooses none.
+(m) behind a name indicated that this field is mandatory to create a ticket.
+
+
+tickets.csv
+----------
+ID*							-	Number that is distributed to the tickets consecutively according to the time of their creation. The first ticket ever created received number 2000000001, the next 2000000002, etc. Ticketnumber 2xxxxxxxxx implies a ticket created by a natural person, ticketnummer 8xxxxxxxxx implies a ticket automatically created by the system.  
+Beschreibung (m)			-	The subject of the ticket, equivalent to the subject heading of an e-mail. 
+Kategorie ID*				-	The ID of a category (There are several categories a user can chose from, when he/she creates a ticket). Based on the category (text) a user chooses, the category ID is attributed to the ticket automatically. 
+Kategorietext (m)(c)		-	The text name of the categories a user can choose from. 
+Unterkategorie ID* (d)		-	Similar to "Kategorie ID" but for a subcategory to a category
+Unterkategorietext (d)(c)	-	Some categories in "Kategorietext" have subcategories, this field contains the text name of those subcategories
+Status (c)(s)				-	The status of a ticket. The default value is "neu" (new), to close a ticket the status is changed to "quittiert" (closed). The list of statuses comprises: Neu (new), Zurückgezogen (withdrawn), in Bearbeitung (in process), weitergeleitet (forwarded), Kundenaktion (customer action), Lösungsvorschlag (solved), Quitiert (closed).     
+Angelegt Am*				-	The date of ticket creation	
+Angelegt Von*				-	The user name of the creator
+Geändert Am*				-	The date when the ticket was changed
+Geändert Von*				-	The user name of the changing account
+Auftraggeber (c)			-	The user name of the person ordering the ticket creation (is automatically informed about ticket changes)
+Meldender (m)(c)(s) 		-	The user name of the person that is meant to be the main contact person for the ticket (is automatically informed about ticket changes), the default value is tthe user name of the user creating the ticket
+Support Team (c)(s)			-	The Support team that is responsible for this ticket (SAP profile group), the default value is "UCC Support Team"
+Bearbeiter (c)(s)			-	The user name of the support agent servicing the ticket, the default value is "UCC Support"
+Nr. Nachrichten*			-	The number of messages within a ticket.	
+Erste Antwort*				-	The date and time of the first answer message in a ticket.
+Letzte Antwort*				-	The date and time of the last answer messate in a ticket.
+
+
+
+status_log.csv
+----------
+ID*						- 	The same Ticket ID as in tickets.csv. General identification number of a ticket. 		
+Datum*					-	The date when a change was made.
+Uhrzeit*				-	The time when a change was made.
+Geändert Von*			-	The user name of the user making the change in the ticket.
+Status ID*				-	The ID of a status (automatically distributed according to the status text).
+Status Text (c)(s)		-	The name of the status. It is the same Status as in tickets.csv.
+
+
+
+(ticket_id).csv
+----------
+Nachrichtentyp (c)(s)	- 	The typ of message. The default value is "Beschreibung" (description). The list a user can choose from is: "Beschreibung" (description), "Interne Notiz" (Internal note, only vissible for support agents), "Antwort" (answer), "Information für SAP" (information for SAP, only vissible by support agents and SAP support users), "Anruf bei SAP" (phone call SAP), "Auswirkung Betrieb" (impact on business, a more descriptive category), "Rekonstruktion" (reconstruction), "Bearbeitungsverzögerung" (delay of progress), "E-Mail von Kunde" (customer's E-Mail), "Lösung" (solution), "Externe Beispieldaten" (external data)  
+Datum*					- 	The date when the message was created.
+Uhrzeit*				- 	The time when the message was created.
+Absender*				- 	The user name of the user creating the message.
+Ort*					- 	The location where the user creating the message is located according to the customer data in our customer database.
+Text					- 	The text of this particular message.
+
+
