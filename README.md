@@ -4,6 +4,8 @@ Master-Praktikum: Machine Learning for Information Systems Students
 
 UCC Munich - Technische Universität München (TUM)
 
+![cover](doc/images/tum-praktikum-machine-learning-project.jpg "cover")
+
 ## Running
 
 - install poetry via `python -m pip install poetry==1.1.6`
